@@ -1,0 +1,134 @@
+{
+  "nothing": [
+    { "id": 0 },
+    { "id": 0 },
+    { "id": 0 },
+    { "id": 0 }
+  ],
+  
+  "ice-sheet": [
+  { "id": 1 },
+  { "id": 1 },
+  { "id": 1 },
+  { "id": 1 }
+  ],
+  
+  "shallow-water": [
+  { "id": 7 },
+  { "id": 7 },
+  { "id": 7 },
+  { "id": 7 }
+  ],
+  
+  "deep-water": [
+  { "id": 36 },
+  { "id": 36 },
+  { "id": 36 },
+  { "id": 36 }
+  ],  
+  
+  "grassy-ground": [
+    { "id": 2 },
+    { "id": 3 },
+    { "id": 8 },
+    { "id": 9 }
+  ],
+
+  "marshland": [
+    { "id": 4 },
+    { "id": 5 },
+    { "id": 10 },
+    { "id": 11 }
+  ],
+
+  "rocky-ground": [
+    { "id": 14 },
+    { "id": 15 },
+    { "id": 20 },
+    { "id": 21 }
+  ],
+
+  "snowy-ground": [
+    { "id": 16 },
+    { "id": 17 },
+    { "id": 22 },
+    { "id": 23 }
+  ],
+
+  "bush": [
+    { "id": 24 },
+    { "id": 25 },
+    { "id": 30 },
+    { "id": 31 }
+  ],
+
+  "fit-tree-top": [
+    { "id": 26 },
+    { "id": 27 },
+    { "id": 32 },
+    { "id": 33 }
+  ],
+
+  "fit-tree-base": [
+    { "id": 38 },
+    { "id": 39 },
+    { "id": 44 },
+    { "id": 45 }
+  ],
+
+  "fit-tree-continuous": [
+    { "id": 28 },
+    { "id": 29 },
+    { "id": 34 },
+    { "id": 35 }
+  ],
+
+  "dead-trunk": [
+    { "id": 48 },
+    { "id": 49 },
+    { "id": 54 },
+    { "id": 55 }
+  ],
+
+  "spawnpoint": [
+    { "id": 37, "flip": "false-false" },
+    { "id": 37, "flip": "true-false" },
+    { "id": 37, "flip": "false-true" },
+    { "id": 37, "flip": "true-true" }
+  ],
+
+  "checkpoint": [
+    { "id": 37, "flip": "false-false" },
+    { "id": 37, "flip": "true-false" },
+    { "id": 37, "flip": "false-true" },
+    { "id": 37, "flip": "true-true" }
+  ],
+
+  "jump-pad": [
+    { "id": 50, "flip": "false-false" },
+    { "id": 50, "flip": "true-false" },
+    { "id": 50, "flip": "false-true" },
+    { "id": 50, "flip": "true-true" }
+  ],
+
+  "pit-active": [
+    { "id": 42, "flip": "false-false" },
+    { "id": 42, "flip": "true-false" },
+    { "id": 42, "flip": "false-true" },
+    { "id": 42, "flip": "true-true" }
+  ],
+
+  "pit-inactive": [
+    { "id": 43, "flip": "false-false" },
+    { "id": 43, "flip": "true-false" },
+    { "id": 43, "flip": "false-true" },
+    { "id": 43, "flip": "true-true" }
+  ],
+
+  "portal": [
+    { "id": 51 },
+    { "id": 52 },
+    { "id": 57 },
+    { "id": 58 }
+  ]
+}

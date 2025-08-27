@@ -1,0 +1,39 @@
+{
+  "SPACE": [
+    "nothing",
+    "grassy-ground",
+    "marshland",
+    "rocky-ground",
+    "snowy-ground",
+    "shallow-water"
+  ],
+  "OBSTACLE": [
+    "bush",
+    "fit-tree-top",
+    "fit-tree-base",
+    "fit-tree-continuous",
+    "dead-trunk",
+    "deep-water"
+  ],
+  "SPAWN": [
+    "spawnpoint"
+  ],
+  "CHECKPOINT": [
+    "checkpoint"
+  ],
+  "JUMP_PAD": [
+    "jump-pad"
+  ],
+  "PERMANENT_PIT": [
+    "pit-active"
+  ],
+  "DYNAMIC_PIT": [
+    "pit-inactive"
+  ],
+  "TELEPORTER": [
+    "portal"
+  ],
+  "SLIPPERY": [
+    "ice-sheet"
+  ]
+}
